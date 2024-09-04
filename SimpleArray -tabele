@@ -8,7 +8,7 @@ public class SimpleArray {
         footballClubs[2] = "Mamchester United";
         footballClubs[3] = "As Roma";
         footballClubs[4] = "Arsenal Londyn";
-
+int numberOfElements = footballClubs.length; //długość elementów tabeli
 
         System.out.println(footballClubs[0]+footballClubs[1]);
     }
