@@ -1,0 +1,18 @@
+public class SimpleArray {
+    public static void main(String[] args) {
+
+        String[] footballClubs = new String [5];
+
+        footballClubs[0] = "Real Madrid";
+        footballClubs[1] = "Fc Barcelona";
+        footballClubs[2] = "Mamchester United";
+        footballClubs[3] = "As Roma";
+        footballClubs[4] = "Arsenal Londyn";
+
+
+        System.out.println(footballClubs[0]+footballClubs[1]);
+    }
+
+
+
+}
